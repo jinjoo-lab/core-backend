@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/535b0945-5d9b-4847-a742-86794c89fdee)
 # 돈기부여 👋
-[![Shinhan](https://www.youtube.com/watch?v=tEM3lSOQv_c)](https://www.youtube.com/watch?v=tEM3lSOQv_c)
+[![Shinhan](https://img.youtube.com/vi/tEM3lSOQv_c/0.jpg)](https://www.youtube.com/watch?v=tEM3lSOQv_c)
 ## 예치금을 걸고 금융 목표에 도전하는 SOL인앱 챌린지 서비스
 
 - 예치금을 걸고 다양한 금융 챌린지에 도전하여 상금을 분배받는다 ~
